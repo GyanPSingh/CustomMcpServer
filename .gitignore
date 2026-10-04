@@ -1,0 +1,18 @@
+## .NET build output
+bin/
+obj/
+
+## Visual Studio and VS Code
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vscode/*
+!.vscode/extensions.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+## Build and diagnostic files
+*.log
+artifacts/
